@@ -1,0 +1,23 @@
+{
+  "name": "perfbench-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "perfbench"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthkp/perfbench-test.git"
+  },
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddharthkp/perfbench-test/issues"
+  },
+  "homepage": "https://github.com/siddharthkp/perfbench-test#readme",
+  "dependencies": {
+    "perfbench": "1.5.2"
+  }
+}
