@@ -1,1 +1,4 @@
-url: https://example.com
+url: http://localhost:3000
+runs: 2
+thresholds:
+  - page-ready: 800
