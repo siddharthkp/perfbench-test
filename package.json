@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/siddharthkp/perfbench-test#readme",
   "dependencies": {
-    "perfbench": "1.5.3",
+    "perfbench": "1.6.3",
     "pm2": "2.4.6",
     "serve": "5.2.1"
   }
